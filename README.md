@@ -17,5 +17,5 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect:
 - **LinkedIn:** [https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/](https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/)
