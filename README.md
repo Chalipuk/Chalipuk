@@ -12,7 +12,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,android,dart,react,ts,tailwind,dotnet,php,html,css,git,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,android,dart,react,ts,tailwind,mui,php,html,css,git,mssql,postman,swagger" />
 </p>
 
 ### 📈 GitHub Stats:
