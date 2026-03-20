@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chalida Pulkerd</h1>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chalipuk&label=Profile%20views&color=0e75b6&style=flat" alt="Chalipuk" />
 </div>
+
 <p align="center">Developer : 2y Exp in Android (Flutter) & Web (React/TS), SSRS & MySQL. Creative contributor with a positive growth mindset.</p>
 
 ### 🔭 Current Focus
