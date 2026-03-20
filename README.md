@@ -17,5 +17,13 @@
 
 ---
 
+<h2 align="center">👩🏻‍💻GITHUB STATS:</h2>
+
+<br/>
+
+![Chalida's github stats](https://github-readme-stats.vercel.app/api?username=Jibpreeya&count_private=true&theme=aura&show_icons=true)
+
+---
+
 ### 📫 Connect:
 - **LinkedIn:** [https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/](https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/)
