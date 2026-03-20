@@ -1,16 +1,11 @@
-
-
 <h1 align="center">Hi 👋, I'm Chalida Pulkerd</h1>
-<h3 align="center">Software Developer</h3>
-<p align="center">Mobile & Web · Flutter · ReactJS · TypeScript · C# .NET · PHP</p>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chalipuk&label=Profile%20views&color=0e75b6&style=flat" alt="Chalipuk" />
 </div>
 
----
+<h3 align="center">Software Developer</h3>
+<p align="center">Mobile & Web · Flutter · ReactJS · TypeScript · C# .NET · PHP</p>
 
 ### 🔭 Current Focus
 - 📱 Developing Mobile Applications using **Flutter** and **React Native**
