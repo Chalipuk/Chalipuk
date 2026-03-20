@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chalida Pulkerd
 
-### Software Developer at TRR Group
+### Software Developer
 **Mobile Android and Web Flutter (Dart), ReactJS, Tailwind, MUI, TypeScript, Restfull API, C# .NET, PHP, HTML, CSS**
 
 ---
