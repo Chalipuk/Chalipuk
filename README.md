@@ -1,7 +1,14 @@
-# Hi 👋, I'm Chalida Pulkerd
 
-### Software Developer
-**Mobile Android and Web Flutter (Dart), ReactJS, Tailwind, MUI, TypeScript, Restfull API, C# .NET, PHP, HTML, CSS**
+
+<h1 align="center">Hi 👋, I'm Chalida Pulkerd</h1>
+<h3 align="center">Software Developer</h3>
+<p align="center">Mobile & Web · Flutter · ReactJS · TypeScript · C# .NET · PHP</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chalipuk&label=Profile%20views&color=0e75b6&style=flat" alt="Chalipuk" />
+</div>
 
 ---
 
@@ -10,23 +17,23 @@
 - 💻 Building Web Applications with **ReactJS** and **TypeScript**
 - ⚙️ Backend development with **C# .NET** and **PHP**
 
-### 🛠 Languages and Tools:
-<p align="left">
+---
+
+### 🛠 Languages and Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,tailwind,mui,php,html,css,git,postman,figma,obsidian,azure" />
 </p>
 
 ---
 
-<br>
-<hr />
+<h2 align="center">👩🏻‍💻 GITHUB STATS</h2>
 
-<h2 align="center">👩🏻‍💻GITHUB STATS:</h2>
-
-<br/>
-
-![Chalida's github stats](https://github-readme-stats.vercel.app/api?username=Chalipuk&count_private=true&theme=aura&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chalipuk&count_private=true&theme=aura&show_icons=true" />
+</p>
 
 ---
 
-### 📫 Connect:
-- **LinkedIn:** [https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/](https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/)
+### 📫 Connect
+- **LinkedIn:** [chalipuk-pulkerd](https://www.linkedin.com/in/chalipuk-pulkerd-76a95b25b/)
