@@ -16,7 +16,7 @@
 ### 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,tailwind,mui,php,html,css,git,express,node,next,postman,figma,obsidian,notion,azure" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,tailwind,materialui,php,html,css,git,express,nodejs,nextjs,postman,figma,obsidian,notion,azure" />
 </p>
 
 ---
