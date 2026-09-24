@@ -4,12 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=Chalipuk&label=Profile%20views&color=0e75b6&style=flat" alt="Chalipuk" />
 </div>
 
-<p align="center">Developer : 2y Exp in Android (Flutter) & Web (React/TS), SSRS & MySQL. Creative contributor with a positive growth mindset.</p>
+<p align="center">Developer : 2y Exp in Android (Flutter) & Web (React/TS), SSRS & SSMS. Creative contributor with a positive growth mindset.</p>
 
 ### 🔭 Current Focus
 - 📱 Developing Mobile Applications using **Flutter** and **React Native**
-- 💻 Building Web Applications with **ReactJS** and **TypeScript**
-- ⚙️ Backend development with **C# .NET** and **PHP**
+- 💻 Building Web Applications with **ReactJS** and **NextJS**
+- ⚙️ Backend Development with **C# .NET** and **ExpressJS**
+- 🧠 I'm learning new MSSQL Stored Procedure, Swift, Vue.js/Nuxt.js, Python and Go
 
 ---
 
@@ -17,14 +18,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,tailwind,materialui,php,html,css,git,express,nodejs,nextjs,postman,figma,obsidian,notion,azure" />
-</p>
-
----
-
-<h2 align="center">👩🏻‍💻 GITHUB STATS</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chalipuk&count_private=true&theme=aura&show_icons=true" />
 </p>
 
 ---
